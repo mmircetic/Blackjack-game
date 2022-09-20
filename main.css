@@ -1,0 +1,36 @@
+body{
+	background-color: darkgreen;
+	font-weight: bold;
+	display: grid;
+	justify-content: center;
+    grid-row-gap:5px ;
+}
+
+h1{
+    color: goldenrod;
+
+
+}
+p{
+	color: white;
+	font-size: 20px;
+}
+
+#msg{
+	font-style: italic;
+}
+
+button{
+	color : #016f32;
+	width: 150px;
+	background: goldenrod;
+	padding: 5px;
+	font-weight: bold;
+	border: none;
+	border-radius: 2px;
+	margin-bottom: 5px;
+	
+}
+#blackjack{
+	align-content: center;
+}
